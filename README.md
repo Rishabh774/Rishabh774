@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a MERN stack debeloper 
+Hi, I’m a third-year B.Tech. student in Computer Science and Engineering, passionate about technology, problem-solving and continuous learning. Currently building a strong foundation in data structures and algorithms, object-oriented programming  and database systems. I'm particularly interested in exploring fields like web development and data analytics.
 
 
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahurishabh5765@gmail.com) 
